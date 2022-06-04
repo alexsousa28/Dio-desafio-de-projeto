@@ -17,5 +17,9 @@ Modulo - 1 Principios de Desenvolvimento de Software
 
 3 - Criando seu Primeiro Repositorio no GitHub Para Compartilhar Seu Progresso
 
+Modulo - 2 Android: Desmestificando Kotlin
+
+1 - Introdução ao Kotlin
+
 No andamento do Bootcamp vou atualizando!!
 
